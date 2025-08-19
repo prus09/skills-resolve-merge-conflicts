@@ -1,3 +1,3 @@
 # References
 
-* octocat 1 , new file
+* octocat 1 , create a merge conflict
